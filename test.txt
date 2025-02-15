@@ -1,0 +1,31 @@
+1. main （master）的作用？
+
+
+2. my-feature的作用？
+
+
+3. 在视频中，为什么使用Rebase而不是Merge？
+
+
+4. Rebase后，push是否受到影响，如何push
+
+
+
+5. 为什么使用Pull request？main（master）和my-feature分别属于什么？
+
+
+
+6. Pull request（拉取请求）是谁对谁做了拉取请求？
+
+
+
+7. Squash and merge起到什么样的作用？
+
+
+
+8. 删除my-feature分支后，需要做什么操作？
+
+
+
+9. 描述出代码更新的流程，文字或者流程图都可以。
+
