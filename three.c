@@ -1,4 +1,8 @@
 //
+// Created by rubyonlyz on 2025/2/17.
+//
+
+//
 // Created by rubyonlyz on 2025/2/16.
 //
 //
@@ -9,7 +13,7 @@
 
 int main() {
 
-    printf("nih");
+    printf("22222222");
 
     return 0;
 
